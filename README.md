@@ -41,9 +41,8 @@
 
 ## 📊 GitHub Stats
 
-![<your-first-name>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![Prisha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prisha-sh&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
 
-<!--
 **prisha-sh/prisha-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
