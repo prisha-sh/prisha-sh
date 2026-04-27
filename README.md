@@ -17,9 +17,9 @@ Computer Science '27 | Indore, India
 </div>
 <br/>
 
-Building next-gen interfaces & AI systems ✨. **Currently:** Voice Agents 🎙️ • World Models 🧠 • Observability & Evals 🔍. **Prev:** @LiseInfotech • @IBM • @AICTE_MS_SAP • Smart India Hackathon Finalist 🏆. McKinsey Forward • GHCI • Google • Microsoft • Reliance Scholar & more. **Love turning complex ideas into clean, delightful products.** Passionate about scalable React systems, real-time AI, & elegant engineering.
+Building next-gen interfaces & AI systems ✨. **Currently:** Voice Agents 🎙️ • World Models 🧠 • Observability & Evals 🔍. **Prev:** @LiseInfotech • @IBM • @AICTE_MS_SAP • Smart India Hackathon Finalist 🏆. McKinsey Forward • GHCI • Google • Microsoft • Reliance Scholar & more. 
 
-**Have a project?** Think I can help? Feel free to reach out on any of my socials and shoot a message. I usually reply fast ⏰
+**Love turning complex ideas into clean, delightful products.** Passionate about scalable React systems, real-time AI, & elegant engineering. **Have a project?** Think I can help? Feel free to reach out on any of my socials and shoot a message. I usually reply fast ⏰
 
 <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="Prisha Sharma" width="100%">
 
