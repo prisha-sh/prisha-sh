@@ -29,21 +29,6 @@ Building next-gen interfaces & AI systems ✨. **Currently:** Voice Agents 🎙�
 </p>
 
 
-## 📊 GitHub Dashboard
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prisha-sh&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=prisha-sh&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisha-sh&layout=compact&theme=radical)
-
----
-
-## 🔥 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prisha-sh&theme=react-dark)
-
----
 
 ## 📈 Contribution Summary (Includes PRs)
 
