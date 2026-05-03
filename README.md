@@ -21,8 +21,9 @@ Building next-gen interfaces & AI systems ✨. **Currently:** Voice Agents 🎙�
 
 **Love turning complex ideas into clean, delightful products.** Passionate about scalable React systems, real-time AI, & elegant engineering. **Have a project?** Think I can help? Feel free to reach out on any of my socials and shoot a message. I usually reply fast ⏰
 
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="Prisha Sharma" width="100%">
 
+<p align="center">
   <b>Let's build something cool together! 🚀🤝</b> Feel free to checkout 👉
   @<a href="https://github.com/The-Minute-Lab" target="_blank">The Minute Lab</a> • @<a href="https://github.com/Retrieval-Augmented-Generation-Systems" target="_blank">RAGS</a> • @<a  href="https://github.com/large-language-models" target="_blank">LLMS</a> • @<a href="https://github.com/computational-finance-research-group" target="_blank">CFRG</a>
 </p>
-
