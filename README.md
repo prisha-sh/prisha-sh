@@ -25,8 +25,4 @@ Building next-gen interfaces & AI systems ✨. **Currently:** Voice Agents 🎙�
   <b>Let's build something cool together! 🚀🤝</b> Feel free to checkout 👉
   @<a href="https://github.com/The-Minute-Lab" target="_blank">The Minute Lab</a> • @<a href="https://github.com/Retrieval-Augmented-Generation-Systems" target="_blank">RAGS</a> • @<a  href="https://github.com/large-language-models" target="_blank">LLMS</a> • @<a href="https://github.com/computational-finance-research-group" target="_blank">CFRG</a>
 </p>
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prisha-sh&theme=radical)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prisha-sh&theme=radical)
-
 
