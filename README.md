@@ -30,8 +30,3 @@ Building next-gen interfaces & AI systems ✨. **Currently:** Voice Agents 🎙�
 
 
 
-## 📈 Contribution Summary (Includes PRs)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prisha-sh&theme=radical)
-
----
